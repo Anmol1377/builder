@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "tailblocks",
+=======
+  "name": "builder",
+>>>>>>> 17d720bc8ad19e254555a5a34afb42f553fbbcd8
   "homepage": "https://Anmol1377.github.io/builder",
   "version": "0.1.0",
   "private": true,
